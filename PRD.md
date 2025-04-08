@@ -190,6 +190,17 @@ Bu proje, kullanıcının yazılım projelerini, deneyimlerini, kendisi hakkınd
 - [X] Proje için gerekli gradient ve renk sınıflarının tanımlanması
 - [X] Dark mode desteğinin eklenmesi
 - [X] Responsive tasarım için ekran boyutu tanımlamalarının yapılması
+- [X] Navbar component'inin yazılması
+- [X] Hero bölümü geliştirme
+- [X] Experience bölümü için sol menü ve içerik geçişleri
+- [X] Scroll animasyonlarının eklenmesi (Framer Motion)
+- [X] Hakkında (About) bölümü yazımı
+- [X] Animasyonlu scroll indikatörünün eklenmesi
+- [X] Dikey zaman çizelgesi komponentinin entegrasyonu
+- [X] Projects bölümünün oluşturulması ve projelerin listelenmesi
+- [X] Proje kartları için Tilt efektinin eklenmesi
+- [X] Projelere GitHub ve canlı demo linklerinin eklenmesi
+- [X] Proje kartlarına teknoloji etiketlerinin eklenmesi
 
 ---
 

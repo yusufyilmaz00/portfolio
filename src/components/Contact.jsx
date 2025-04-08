@@ -23,16 +23,16 @@ const Contact = () => {
     setLoading(true);
 
     emailjs.send(
-      'YOUR_SERVICE_ID', // Replace with your EmailJS service ID
-      'YOUR_TEMPLATE_ID', // Replace with your EmailJS template ID
+      'service_4elc86s',
+      'template_vc98o18',
       {
         from_name: form.name,
-        to_name: 'Your Name',
+        to_name: 'Yusuf Yılmaz',
         from_email: form.email,
-        to_email: 'your.email@example.com',
+        to_email: 'yusuf@yusufyilmazdev.com',
         message: form.message,
       },
-      'YOUR_PUBLIC_KEY' // Replace with your EmailJS public key
+      'zKRlVfxWQfxCgnkkg'
     )
     .then(() => {
       setLoading(false);
@@ -122,7 +122,7 @@ const Contact = () => {
             </p>
             <div className="flex gap-4 mt-4">
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/yusufyilmaz00"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-tertiary p-3 rounded-full"
@@ -138,7 +138,7 @@ const Contact = () => {
                 </svg>
               </a>
               <a
-                href="https://linkedin.com/in/yourusername"
+                href="https://www.linkedin.com/in/yusuf-yilmaz0"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-tertiary p-3 rounded-full"

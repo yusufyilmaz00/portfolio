@@ -5,7 +5,7 @@ import web from './web.svg';
 import mobile from './mobile.svg';
 import backend from './backend.svg';
 import creator from './creator.svg';
-import meta from './company/meta.png';
+import meta from './company/meta.svg';
 import shopify from './company/shopify.png';
 import starbucks from './company/starbucks.png';
 import tesla from './company/tesla.png';

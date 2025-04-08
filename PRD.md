@@ -122,7 +122,7 @@ Bu proje, kullanıcının yazılım projelerini, deneyimlerini, kendisi hakkınd
 ---
 ### 6. Klasör yapısı
 
-/portfolio-site
+/portfolio
 ├── public/
 │   ├── index.html
 │   └── resume.pdf           # İndirilebilir CV
@@ -164,7 +164,6 @@ Bu proje, kullanıcının yazılım projelerini, deneyimlerini, kendisi hakkınd
 ### 9. Yapılacaklar Listesi (To-Do)
 
 - [ ] Logo tasarımı (altıgen içi harf)
-- [ ] Proje klasör yapısının oluşturulması (React + Vite)
 - [ ] Navbar component'inin yazılması
 - [ ] Hero bölümü geliştirme
 - [ ] Dark/Light mode toggle oluşturulması
@@ -182,6 +181,15 @@ Bu proje, kullanıcının yazılım projelerini, deneyimlerini, kendisi hakkınd
 ---
 
 ### 10. Tamamlanan Görevler
+- [X] Proje klasör yapısının oluşturulması (React + Vite)
+- [X] React ve Vite kurulumu
+- [X] Tailwind CSS kurulumu ve yapılandırması
+- [X] Framer Motion ve EmailJS paketlerinin yüklenmesi
+- [X] Temel stil ve renk tanımlamalarının yapılması
+- [X] Google Fonts (Poppins) entegrasyonu
+- [X] Proje için gerekli gradient ve renk sınıflarının tanımlanması
+- [X] Dark mode desteğinin eklenmesi
+- [X] Responsive tasarım için ekran boyutu tanımlamalarının yapılması
 
 ---
 

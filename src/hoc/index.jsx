@@ -20,4 +20,4 @@ const SectionWrapper = (Component, idName) =>
     );
   };
 
-export default SectionWrapper; 
+export { default as SectionWrapper } from './SectionWrapper'; 
